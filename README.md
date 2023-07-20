@@ -1,3 +1,4 @@
+android录屏方式
 # scrcpy (v2.1.1)
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
